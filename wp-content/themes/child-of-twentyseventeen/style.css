@@ -8,3 +8,7 @@ Template: twentyseventeen
 */
 
 @import url('../twentyseventeen/style.css');
+
+body{
+	color:#B0B!important;
+}
