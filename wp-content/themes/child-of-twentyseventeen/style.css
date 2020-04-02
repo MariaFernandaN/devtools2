@@ -1,0 +1,10 @@
+/*
+Theme Name: child-theme
+Theme URI: www.linkedin.com/in/mar%C3%ADa-fernanda-nieto-rivera/?locale=en_US
+Description:Child theme developed fot devtools2
+Author:Maria Fernanda Nieto
+Version: 1.0
+Template: twentyseventeen
+*/
+
+@import url('../twentyseventeen/style.css');
